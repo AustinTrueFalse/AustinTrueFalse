@@ -4,7 +4,7 @@
 ```javascript
 const maksim = {
     pronouns: 'He' | 'Him',
-    code: ['Javascript', 'TypeScript', 'C#', 'SQL'],
+    code: ['JavaScript', 'TypeScript', 'C#', 'SQL'],
     technologies: {
         frontend: ['vue2/3', 'vuex', 'vuetify', 'pinia'],
         databases: ['mssql'],
