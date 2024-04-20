@@ -13,7 +13,7 @@
 
 ### Stack:
 - Vue 3
-- Vue
+- VueX
 - Pinia
 - TS (starting level)
 - JS
