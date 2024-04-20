@@ -22,6 +22,4 @@
 - C#
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AustinTrueFalse&theme=dark)
-
-Статистика языков в репозиториях:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AustinTrueFalse&theme=dark)
