@@ -19,7 +19,7 @@ const maksim = {
 
 ```
 
-<> Frontend development an internal CRM system
+> Frontend development an internal CRM system
 
     Stack - Vue2, Vuetify, Vuex, MSSQL
 
@@ -27,7 +27,7 @@ const maksim = {
     - Frontend interfaces
     - Creating DB procedures
 
-<> Architecture
+> Architecture
 
     Stack - MSSQL, Hadoop
 
@@ -40,7 +40,7 @@ const maksim = {
 ## :sparkles: Currently learning
 
 ```
-[] Full-stack development on C#
+> Full-stack development on C#
 
 ```
 ## :triangular_flag_on_post: Statistics
