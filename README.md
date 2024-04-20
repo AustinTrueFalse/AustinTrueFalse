@@ -2,8 +2,7 @@
 
 # My name is Maxim
 
-### Current workplace
-# Data Architect at Lenta
+# Current workplace - Data Architect at Lenta
 - Creating database schemas
 - Programming bonus point accruals in the company using SQL
 - Frontend development an internal CRM system using Vue 3
