@@ -6,9 +6,9 @@ const maksim = {
     pronouns: 'He' | 'Him',
     code: ['Javascript', 'TypeScript', 'C#', 'SQL'],
     technologies: {
-        frontend: ['vue3', 'vuex', 'vuetify', 'pinia'],
+        frontend: ['vue2/3', 'vuex', 'vuetify', 'pinia'],
         databases: ['mssql'],
-        misc: ['firebase']
+        misc: ['git', 'firebase', 'notion', 'jira']
     },
     currentFocus: 'Endless learning',
     favoriteQuote: 'To do well, one must do badly, and then return it as it was',
@@ -19,17 +19,28 @@ const maksim = {
 
 ```
 
-- Frontend development an internal CRM system using Vue 3
-- Creating database schemas on MSSQL
-- Programming bonus point accruals in the company using SQL
-- Data analytics automation
+<> Frontend development an internal CRM system
+
+    Stack - Vue2, Vuetify, Vuex, MSSQL
+
+    - UX/UI design
+    - Frontend interfaces
+    - Creating DB procedures
+
+<> Architecture
+
+    Stack - MSSQL, Hadoop
+
+    - Creating database schemas on MSSQL
+    - Setting up data-flow from Hadoop to MSSQL
+    - Programming bonus point accruals to clients under various conditions
+    - Data analytics automation
 
 ```
 ## :sparkles: Currently learning
 
 ```
-
-- Full-stack development on C#
+[] Full-stack development on C#
 
 ```
 ## :triangular_flag_on_post: Statistics
