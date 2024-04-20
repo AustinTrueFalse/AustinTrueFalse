@@ -1,17 +1,27 @@
-[/header.png
-](https://github.com/AustinTrueFalse/AustinTrueFalse/blob/main/header.png?raw=true)
+<img src="https://github.com/AustinTrueFalse/AustinTrueFalse/blob/main/header.png?raw=true" alt="альтернативный текст">
 
-<!--
-**AustinTrueFalse/AustinTrueFalse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# My name is Maxim
 
-Here are some ideas to get you started:
+### Current workplace
+# Data Architect at Lenta
+- Creating database schemas
+- Programming bonus point accruals in the company using SQL
+- Frontend development an internal CRM system using Vue 3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Currently learning:
+- Full-stack development
+
+### Stack:
+- Vue 3
+- Vue
+- Pinia
+- TS (starting level)
+- JS
+- MS SQL
+- C#
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AustinTrueFalse&theme=dark)
+
+Статистика языков в репозиториях:
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AustinTrueFalse&theme=dark)
