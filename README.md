@@ -1,7 +1,6 @@
-<img src="https://github.com/AustinTrueFalse/AustinTrueFalse/blob/main/header.png?raw=true" alt="альтернативный текст">
 
-# My name is Maksim
-## About me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=5000&random=false&width=1000&height=70&lines=Hi%2C+my+name+is+Maksim)](https://git.io/typing-svg)
+## :safety_vest: About me
 ```javascript
 const maksim = {
     pronouns: 'He' | 'Him',
@@ -25,20 +24,12 @@ const maksim = {
 - Frontend development an internal CRM system using Vue 3
 
 ```
-## 🌱 Currently learning full-stack development on C#
+## :sparkles: Currently learning
 
-### Stack:
-- Vue 3
-- VueX
-- Pinia
-- TS (starting level)
-- JS
-- MS SQL
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="100" height="100"/>
-           
-          
-          
-- C#
+```
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AustinTrueFalse&theme=dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AustinTrueFalse&theme=dark)
+- Full-stack development on C#
+
+```
+## :triangular_flag_on_post: Statistics
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AustinTrueFalse)](https://github.com/anuraghazra/github-readme-stats)
