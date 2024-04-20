@@ -19,9 +19,10 @@ const maksim = {
 
 ```
 
+- Frontend development an internal CRM system using Vue 3
 - Creating database schemas on MSSQL
 - Programming bonus point accruals in the company using SQL
-- Frontend development an internal CRM system using Vue 3
+- Data analytics automation
 
 ```
 ## :sparkles: Currently learning
