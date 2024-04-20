@@ -12,7 +12,7 @@ const maksim = {
     },
     currentFocus: 'Endless learning',
     favoriteQuote: 'To do well, one must do badly, and then return it as it was',
-    askMeAbout: 'japan cars'
+    askMeAbout: 'Japan cars'
 };
 ```
 ## 💻 Current workplace - Data Architect at [Lenta](https://lenta.com/)
