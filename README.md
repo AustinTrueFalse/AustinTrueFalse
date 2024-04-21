@@ -1,5 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=5000&random=false&width=1000&height=70&lines=Hi%2C+my+name+is+Maksim)](https://git.io/typing-svg)
+
 ## :safety_vest: About me
 ```javascript
 const maksim = {
@@ -44,4 +45,14 @@ const maksim = {
 
 ```
 ## :triangular_flag_on_post: Statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AustinTrueFalse)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center" style="display: flex; justify-content: center;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AustinTrueFalse&theme=discord_old_blurple" alt="GitHub статистика" width="300"/>  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AustinTrueFalse&theme=discord_old_blurple" alt="GitHub статистика" width="300"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AustinTrueFalse&theme=discord_old_blurple" alt="GitHub статистика" width="300"/>
+</p>
+
+## 
+<p align="center" style="display: flex; justify-content: center;">
+  <img src="https://github.com/AustinTrueFalse/AustinTrueFalse/assets/119781577/775b7a7c-f4a4-47b4-bac7-9111cc378242" alt="gb" />
+</p>
