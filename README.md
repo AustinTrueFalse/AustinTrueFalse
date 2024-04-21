@@ -14,7 +14,7 @@ const maksim = {
     workSpaces: ['notion', 'jira'],
     currentFocus: 'Endless learning',
     favoriteQuote: 'To do well, one must do badly, and then return it as it was',
-    askMeAbout: 'Japan cars'
+    askMeAbout: ['Japan cars', 'DayZ']
 };
 ```
 ## 💻 Current workplace - Data Architect at [Lenta](https://lenta.com/)
