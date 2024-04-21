@@ -9,8 +9,9 @@ const maksim = {
     technologies: {
         frontend: ['vue2/3', 'vuex', 'vuetify', 'pinia'],
         databases: ['mssql'],
-        misc: ['git', 'firebase', 'notion', 'jira']
+        misc: ['git', 'firebase']
     },
+    workSpaces: ['notion', 'jira'],
     currentFocus: 'Endless learning',
     favoriteQuote: 'To do well, one must do badly, and then return it as it was',
     askMeAbout: 'Japan cars'
