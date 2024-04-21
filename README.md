@@ -46,7 +46,7 @@ const maksim = {
 ```
 ## :triangular_flag_on_post: Statistics
 
-<p align="center" style="display: flex; justify-content: center;">
+<p style="display: flex; justify-content: center;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AustinTrueFalse&theme=discord_old_blurple" alt="GitHub статистика"/>  
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AustinTrueFalse&theme=discord_old_blurple" alt="GitHub статистика"/>
 </p>
