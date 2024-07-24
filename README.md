@@ -23,7 +23,7 @@ const maksim = {
 
 > Frontend development an internal CRM system
 
-    Stack - Vue2, Vuetify, Vuex, MSSQL
+    Stack - Vue2/3, Vuetify, Vuex, Pinia, Strapi, MSSQL
 
     - UX/UI design
     - Frontend interfaces
