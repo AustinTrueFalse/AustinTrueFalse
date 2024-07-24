@@ -13,7 +13,7 @@ const maksim = {
     },
     workSpaces: ['notion', 'jira'],
     currentFocus: 'Endless learning',
-    favoriteQuote: 'To do well, one must do badly, and then return it as it was',
+    favoriteQuote: 'To make something work well, make it work badly first, then revert it back to how it was',
     askMeAbout: ['Japan cars', 'DayZ']
 };
 ```
