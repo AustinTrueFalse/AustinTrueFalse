@@ -42,7 +42,7 @@ const maksim = {
 ## :sparkles: Currently learning
 
 ```
-> Full-stack development on C#
+> Python backend development
 
 ```
 ## :triangular_flag_on_post: Statistics
