@@ -9,7 +9,7 @@ const maksim = {
     technologies: {
         frontend: ['vue2/3', 'vuex', 'vuetify', 'pinia'],
         databases: ['mssql'],
-        misc: ['strapi', 'firebase', 'git']
+        misc: ['firebase', 'git']
     },
     workSpaces: ['notion', 'jira'],
     currentFocus: 'Endless learning',
