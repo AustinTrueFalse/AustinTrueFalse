@@ -31,8 +31,9 @@ const maksim = {
 
 > Architecture
 
-    Stack - MSSQL, Hadoop
+    Stack - C#, MSSQL, Hadoop
 
+    - Creating a C# microservice for parsing promo campaign data with Apache Kafka (producer/consumer flow).
     - Creating database schemas on MSSQL
     - Setting up data-flow from Hadoop to MSSQL
     - Programming bonus point accruals to clients under various conditions
