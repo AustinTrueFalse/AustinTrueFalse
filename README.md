@@ -7,9 +7,9 @@ const maksim = {
     pronouns: 'He' | 'Him',
     code: ['JavaScript', 'TypeScript', 'C#', 'SQL'],
     technologies: {
-        frontend: ['vue2/3', 'vuex', 'vuetify', 'pinia'],
-        databases: ['mssql'],
-        misc: ['firebase', 'git']
+        frontend: ['vue2/3', 'vuex', 'vuetify', 'pinia', 'tailwind'],
+        databases: ['mssql', 'psql'],
+        misc: [n8n, 'firebase', 'git']
     },
     workSpaces: ['notion', 'jira'],
     currentFocus: 'Endless learning',
@@ -17,13 +17,13 @@ const maksim = {
     askMeAbout: ['Japan cars', 'DayZ']
 };
 ```
-## 💻 Current workplace - Data Architect at [Lenta](https://lenta.com/)
+## 💻 Current workplace - Frontend Develople at [Lenta](https://lenta.com/)
 
 ```
 
 > Frontend development an internal CRM system
 
-    Stack - Vue2/3, Vuetify, Nuxt 3, Vuex, Pinia, Strapi, MSSQL
+    Stack - Vue 3, Vuetify, Nuxt 3, Vuex, Pinia, MSSQL
 
     - UX/UI design
     - Frontend interfaces
