@@ -4,48 +4,55 @@
 ## :safety_vest: About me
 ```javascript
 const maksim = {
-    pronouns: 'He' | 'Him',
-    code: ['JavaScript', 'TypeScript', 'C#', 'SQL'],
+    role: 'Low-Code Engineer',
+    code: ['JavaScript', 'TypeScript', 'SQL', 'C# (base)'],
     technologies: {
-        frontend: ['vue2/3', 'vuex', 'vuetify', 'pinia', 'tailwind'],
-        databases: ['mssql', 'psql'],
-        misc: [n8n, 'firebase', 'git']
+        frontend: ['Vue 2/3', 'Nuxt', 'Pinia', 'Vuex', 'Vuetify', 'Tailwind'],
+        automation: ['n8n', 'Business Process Automation', 'AI Workflows'],
+        databases: ['MS SQL', 'PostgreSQL'],
+        misc: ['Docker', 'Firebase', 'Git', 'Nginx']
     },
-    workSpaces: ['notion', 'jira'],
-    currentFocus: 'Endless learning',
-    favoriteQuote: 'To make something work well, make it work badly first, then revert it back to how it was',
-    askMeAbout: ['Japan cars', 'DayZ']
+    workspaces: ['Notion', 'Jira'],
+    currentFocus: 'Automation, AI Agents & Product Development',
+    favoriteQuote: 'Technology should solve business problems, not create new ones',
+    askMeAbout: ['Japanese cars', 'DayZ']
 };
 ```
-## 💻 Current workplace - Frontend Develople at [Lenta](https://lenta.com/)
+# 💻 Current workplace — Fullstack Developer at Lenta
 
-```
+### CRM & Internal Platforms
 
-> Frontend development an internal CRM system
+**Stack:** Vue 3, Nuxt 3, TypeScript, Pinia, Vuetify, MS SQL
 
-    Stack - Vue 3, Vuetify, Nuxt 3, Vuex, Pinia, MSSQL
+* Frontend architecture and development
+* Internal CRM systems
+* Vue 2 → Vue 3 migration
+* Database design and stored procedures
+* REST API integrations
+* UX/UI improvements
 
-    - UX/UI design
-    - Frontend interfaces
-    - Creating DB procedures
+### Business Process Automation
 
-> Architecture
+**Stack:** n8n, PostgreSQL, JavaScript, AI/LLM
 
-    Stack - C#, MSSQL, Hadoop
+* Automated business reporting and analytics
+* MS SQL → Google Sheets integrations
+* AI-powered data assistant
+* Business workflow automation
+* Reusable automation scenarios
 
-    - Creating a C# microservice for parsing promo campaign data with Apache Kafka (producer/consumer flow).
-    - Creating database schemas on MSSQL
-    - Setting up data-flow from Hadoop to MSSQL
-    - Programming bonus point accruals to clients under various conditions
-    - Data analytics automation
+### Architecture & Integrations
 
-```
-## :sparkles: Currently learning
+**Stack:** C#, Kafka, EF Core, MS SQL
 
-```
-> Python backend development
+* Microservices development
+* Apache Kafka producer/consumer flows
+* Database architecture
+* Data processing pipelines
+* Analytics infrastructure
 
-```
+
+
 ## :triangular_flag_on_post: Statistics
 
 <p style="display: flex; justify-content: center;">
