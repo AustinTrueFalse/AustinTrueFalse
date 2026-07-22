@@ -1,66 +1,64 @@
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=5000&random=false&width=1000&height=70&lines=Hi%2C+my+name+is+Maksim)](https://git.io/typing-svg)
 
 ## :safety_vest: About me
-```javascript
-const maksim = {
-    role: 'Low-Code Engineer',
-    code: ['JavaScript', 'TypeScript', 'SQL', 'C# (base)'],
-    technologies: {
-        frontend: ['Vue 2/3', 'Nuxt', 'Pinia', 'Vuex', 'Vuetify', 'Tailwind'],
-        automation: ['n8n', 'Business Process Automation', 'AI Workflows'],
-        databases: ['MS SQL', 'PostgreSQL'],
-        misc: ['Docker', 'Firebase', 'Git', 'Nginx']
-    },
-    workspaces: ['Notion', 'Jira'],
-    currentFocus: 'Automation, AI Agents & Product Development',
-    favoriteQuote: 'Technology should solve business problems, not create new ones',
-    askMeAbout: ['Japanese cars', 'DayZ']
+
+```ts
+const profile = {
+  role: 'Software Engineer | Tech Project @ Lenta',
+  stack: ['Vue.js', 'Nuxt', 'TypeScript', 'JavaScript', 'C#', 'MS SQL', 'PostgreSQL', 'Apache Kafka'],
+  frontend: ['Vue 2/3', 'Nuxt 2/3', 'Pinia', 'Vuex', 'Vuetify', 'Tailwind'],
+  automation: ['n8n', 'OpenAI', 'AI Workflows'],
+  tools: ['Git', 'Docker', 'Firebase', 'Nginx', 'Jira', 'Notion'],
+  focus: ['Enterprise CRM', 'Software Architecture', 'Technical Leadership', 'Product Development'],
+  hobbies: ['Japanese Cars', 'DayZ'],
+  motto: 'Technology should solve business problems, not create new ones.'
 };
 ```
-# 💻 Current workplace — Fullstack Developer at Lenta
 
-### CRM & Internal Platforms
+# 💻 Current workplace — Software Engineer | Tech Project at Lenta
 
-**Stack:** Vue 3, Nuxt 3, TypeScript, Pinia, Vuetify, MS SQL
+### 🚀 Enterprise CRM & Business Applications
 
-* Frontend architecture and development
-* Internal CRM systems
-* Vue 2 → Vue 3 migration
-* Database design and stored procedures
-* REST API integrations
-* UX/UI improvements
+**Stack:** Vue 3, Nuxt 3, TypeScript, Pinia, Vuetify, C#, MS SQL
 
-### Business Process Automation
+* Development of enterprise CRM systems and internal business applications
+* Frontend architecture and scalable multi-brand solutions
+* Vue 2 → Vue 3 migration with TypeScript adoption
+* REST API integrations with microservices
+* Database design, SQL optimization and stored procedures
+* Technical documentation and solution design
+* Cross-functional collaboration with business, QA and backend teams
 
-**Stack:** n8n, PostgreSQL, JavaScript, AI/LLM
+---
 
-* Automated business reporting and analytics
-* MS SQL → Google Sheets integrations
-* AI-powered data assistant
-* Business workflow automation
-* Reusable automation scenarios
+### ⚙️ Software Architecture & Integrations
 
-### Architecture & Integrations
-
-**Stack:** C#, Kafka, EF Core, MS SQL
+**Stack:** C#, Apache Kafka, REST API, MS SQL
 
 * Microservices development
-* Apache Kafka producer/consumer flows
-* Database architecture
-* Data processing pipelines
+* Apache Kafka producer / consumer integrations
+* Event-driven architecture
+* Database architecture improvements
 * Analytics infrastructure
+* Backend integrations
+
+---
+
+### 📋 Product & Technical Leadership
+
+* Requirements gathering and feature specification
+* Technical leadership
+* Solution architecture
+* Roadmap execution
+* Release planning
+* Feature prioritization
+* Stakeholder management
+* Technical decision-making
+* Cross-functional coordination
+
+---
 
 
-
-## :triangular_flag_on_post: Statistics
-
-<p style="display: flex; justify-content: center;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AustinTrueFalse&theme=discord_old_blurple" alt="GitHub статистика"/>  
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AustinTrueFalse&theme=discord_old_blurple" alt="GitHub статистика"/>
-</p>
-
-## 
-<p align="center" style="display: flex; justify-content: center;">
-  <img src="https://github.com/AustinTrueFalse/AustinTrueFalse/assets/119781577/775b7a7c-f4a4-47b4-bac7-9111cc378242" alt="gb" />
+<p align="center">
+  <img src="https://github.com/AustinTrueFalse/AustinTrueFalse/assets/119781577/775b7a7c-f4a4-47b4-bac7-9111cc378242" alt="banner"/>
 </p>
