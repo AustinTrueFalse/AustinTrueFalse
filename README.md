@@ -15,7 +15,7 @@ const profile = {
 };
 ```
 
-# 💻 Current workplace — Software Engineer | Tech Project at Lenta
+# 💻 Current workplace — Software Engineer
 
 ### 🚀 Enterprise CRM & Business Applications
 
